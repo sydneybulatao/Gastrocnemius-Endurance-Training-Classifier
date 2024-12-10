@@ -1,4 +1,4 @@
-# Building a Classifier For MoTrPAC Endurance Training Data Based on Lipoprotein Levels in the Gastrocnemius
+# Building a Classifier For MoTrPAC Endurance Training Data Based on Lipoprotein Receptor Levels in the Gastrocnemius
 Classifier for endurance training duration based on metabolite levels in the gastrocnemius, using the [MoTrPAC Endurance Training Dataset](https://github.com/MoTrPAC/MotrpacRatTraining6moData?tab=readme-ov-file). 
 
 ## Motivation
